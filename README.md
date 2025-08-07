@@ -2,9 +2,6 @@
 
 **Desenvolvedor FullStack**
 
-Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em tecnologias modernas para desenvolvimento web, especialmente JavaScript, Ruby e Golang.
-Atuo como estagiário em desenvolvimento fullstack, contribuindo no frontend e backend de aplicações web, enquanto busco aprimorar minhas habilidades técnicas e práticas no dia a dia.
-
 ---
 ### 🧰 Linguagens e Frameworks
 
