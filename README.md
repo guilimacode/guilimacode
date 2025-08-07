@@ -2,7 +2,6 @@
 
 **Desenvolvedor FullStack**
 
----
 ### 🧰 Linguagens e Frameworks
 
 <p align="left">
